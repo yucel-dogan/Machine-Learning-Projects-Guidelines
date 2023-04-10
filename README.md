@@ -3,7 +3,7 @@ Prepared this repository to list the high level steps of a machine learning proj
 
 
 ## Index
-1- Use Case Extraction /n
+1- Use Case Extraction
 2- Feature Extraction (Attribute Extraction)
 3- Feature Engineering
 4- Data Quality Controls
